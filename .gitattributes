@@ -1,10 +1,16 @@
 
-/windows/** linguist-detectable=false
-/linux/** linguist-detectable=false
-/android/** linguist-detectable=false
-/ios/** linguist-detectable=false
-/macos/** linguist-detectable=false
-/build/** linguist-detectable=false
+android/** linguist-generated=true
+ios/** linguist-generated=true
+linux/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+build/** linguist-generated=true
+
+
+*.cpp linguist-detectable=false
+*.cc linguist-detectable=false
+*.c linguist-detectable=false
+*.h linguist-detectable=false
 
 
 *.dart linguist-detectable=true

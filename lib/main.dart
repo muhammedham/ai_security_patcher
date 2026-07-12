@@ -1,12 +1,13 @@
+// Force GitHub Language Update
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'core/services/gemini_service.dart';
-import 'features/auth/viewmodel/auth_viewmodel.dart';
-import 'features/auth/views/auth_view.dart';
-import 'features/patcher/viewmodel/patcher_viewmodel.dart';
-import 'features/patcher/views/patcher_view.dart';
+import 'package:ai_security_patcher/core/services/gemini_service.dart';
+import 'package:ai_security_patcher/features/auth/viewmodel/auth_viewmodel.dart';
+import 'package:ai_security_patcher/features/auth/views/auth_view.dart';
+import 'package:ai_security_patcher/features/patcher/viewmodel/patcher_viewmodel.dart';
+import 'package:ai_security_patcher/features/patcher/views/patcher_view.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
