@@ -43,4 +43,4 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/muhammedham/ai_security_patcher.git](https://github.com/muhammedham/ai_security_patcher.git)
+   git clone https://github.com/muhammedham/ai_security_patcher.git
