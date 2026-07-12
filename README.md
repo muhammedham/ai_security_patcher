@@ -1,5 +1,14 @@
 # 🛡️ AI Security Patcher
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/AI-Gemini%203.5%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Security-DevSecOps-000000?style=for-the-badge&logo=security&logoColor=white" alt="DevSecOps" />
+</div>
+
+<br/>
+
 **AI Security Patcher** is a cutting-edge DevSecOps Flutter application designed to act as an AI Copilot for Application Security Engineers. Powered by the latest **Gemini 3.5 Flash** model, it intelligently analyzes raw source code and container security logs (e.g., Trivy, OWASP) to detect vulnerabilities and provide actionable, step-by-step patching workflows.
 
 ---
@@ -10,7 +19,7 @@
 * **🛠️ Automated Patching Workflow:** Generates precise, step-by-step remediation strategies tailored to the specific vulnerability.
 * **📊 Markdown-Rendered Reports:** Delivers professional, easy-to-read security audit reports with syntax-highlighted code blocks (Vulnerable vs. Secure).
 * **🔐 Secure API Key Storage:** Utilizes `flutter_secure_storage` to encrypt and store the user's Gemini API key locally, ensuring zero credential leakage.
-* **🎨 Cyberpunk/Hacker UI:** A sleek, dark-themed interface built with `Google Fonts` (Orbitron & JetBrains Mono) for an immersive DevSecOps experience.
+* **🎨 Cyberpunk/Workspace UI:** A sleek, dark-themed interface built with Google Fonts (Orbitron & JetBrains Mono) for an immersive DevSecOps experience.
 
 ---
 
@@ -34,4 +43,4 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/USERNAME/ai_security_patcher.git](https://github.com/USERNAME/ai_security_patcher.git)
+   git clone [https://github.com/muhammedham/ai_security_patcher.git](https://github.com/muhammedham/ai_security_patcher.git)
