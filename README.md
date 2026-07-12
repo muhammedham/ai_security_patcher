@@ -41,6 +41,23 @@
 * A valid [Google Gemini API Key](https://aistudio.google.com/app/apikey).
 
 ### Installation
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muhammedham/ai_security_patcher.git
+   git clone [https://github.com/muhammedham/ai_security_patcher.git](https://github.com/muhammedham/ai_security_patcher.git)
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd ai_security_patcher
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
